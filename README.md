@@ -1,4 +1,8 @@
 # Robot-Automation
+
+**우선 해당 링크에 들어가서 튜토리얼을 진행한다**
+https://github.com/ykkimhgu/HGU_IAIA/tree/main/Tutorial/TU_ROS_v2
+
 ## 1. Structure
 
 ```
